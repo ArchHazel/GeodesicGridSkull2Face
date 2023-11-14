@@ -1,4 +1,4 @@
-# GeodesicGridSkull2Face
+# Skull2Face: geodesic grid as intermediary
 This code is a python implementation of the "Craniofacial reconstruction based on heat flow geodesic grid regression (HF-GGR) model".
 
 Given dense correspondence 3D geometry data of skull, this implemented module facilitate the prediction of 3D geometry of human face. The intermediary connection is established through geodesic grid points radially distributed on the skin.   
